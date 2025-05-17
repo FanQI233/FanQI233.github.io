@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "**蔚蓝档案&原神&我的世界&崩铁&原神最新福利**"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 
 [我的手艺亚洲前十最强方块使用者topfight114514BESTplayer竟然是...](https://space.bilibili.com/2122051860?spm_id_from=333.337.0.0)
 
- **1. MODs 见图 版本号 1.21.4-Forge_54.0.13 网络名称【lan】 Seiaawa 密码 114514 展开
+ **1. MODs 见图 版本号 1.21.4-Forge_54.0.13 网络名称【lan】 Seiaawa 密码 114514 [展开](https://www.bilibili.com/video/BV1hq4y1s7VH/?spm_id_from=333.337.search-card.all.click&vd_source=ba88320920b3a3ec31cc7c5d6da64813)
     RuanSeiaQI233 2025/02/07 02:14 置顶 @米米世界郭服セイア
     
     (摇了摇头)开挂是不被允许的行为，我们应该凭借自己的实力来完成任务。” RuanSeiaQI233 2025/02/05 22:05
