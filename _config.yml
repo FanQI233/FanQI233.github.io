@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "成分复杂1145/ Site Title"
+title                    : "成分复杂1145"
 title_separator          : "-"
 name                     : &name "FanQI233"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "https://imgse.com/i/pEvNXQJ"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
