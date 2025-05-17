@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://imgse.com/i/pEvNXQJ"
+  avatar           : "[![pEvNXQJ.jpg](https://s21.ax1x.com/2025/05/17/pEvNXQJ.jpg)](https://imgse.com/i/pEvNXQJ)"
   name             : "FanQI233"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
